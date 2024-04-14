@@ -1,5 +1,7 @@
 # Data Analyst 
 
+#### Technical Skills: Python, SQL, Power BI, Tableau 
+
 ## Education
 - National University of Modern Languages Islamabad Islamabad, Pakistan
  BS English Literature and Linguistics Sep 2019 – Jan 2024
@@ -14,14 +16,14 @@ British and American Studies Feb 2023 – Aug 2023
 distributions and impacts of variables like year, region, nationality, and population.
 ⎯ Employing bivariate methods and visualizations with Matplotlib, Seaborn, and Plotly, revealed historical 
 trends and future insights for policymakers and researchers.
-⎯ [GitHub repository link:] (https://github.com/Salman072-github/Saudi-Arabi-Population-Data-SwiftEDA.git)
+⎯ [GitHub repository link:](https://github.com/Salman072-github/Saudi-Arabi-Population-Data-SwiftEDA.git)
 
  **2) Power Bi Project:**
 ⎯ Completed a Power BI project analyzing survey data from data science professionals.
 ⎯ Conducted data pre-processing and transformation, creating insightful visualizations and a 
 comprehensive dashboard to reveal crucial trends.
 ⎯ Leveraged Power BI functionalities to provide actionable insights, meeting project objectives effectively.
-⎯ [GitHub repository link:] (https://github.com/Salman072-github/Power-BI.git)
+⎯ [GitHub repository link:](https://github.com/Salman072-github/Power-BI.git)
 
 ## Certification
 **ONLINE COURSES**
