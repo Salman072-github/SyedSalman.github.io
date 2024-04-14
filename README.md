@@ -7,6 +7,16 @@
  
 - Comenius University Bratislava (Exchange Student) Bratislava, Slovakia | British and American Studies 
 
+## Work
+**Data Science Bootcamp May 2023 – Dec 2023**
+
+- I recently completed atomcamp’s six-month data science bootcamp. I was honored to be given a 
+fully funded scholarship. In the past six months, I learned a lot regarding data analysis using Excel, 
+SQL, python and enhanced my analytical capabilities and communication skills. The following I 
+learned during the BootCamp:
+! [Data Analytics Certificate](assets/Data Analytics Certificate.png)
+
+
 ## Projects 
  **1) Beyond Numbers: A swift EDA of Saudi Arabia's Population dataset**
 
