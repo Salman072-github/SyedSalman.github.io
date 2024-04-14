@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, Power BI, Tableau 
 
 ## Education
-- National University of Modern Languages Islamabad Islamabad, Pakistan |  BS English Literature and Linguistics Sep 2019 – Jan 2024
+- National University of Modern Languages Islamabad Islamabad, Pakistan | BS English Literature and Linguistics 
  
-- Comenius University Bratislava (Exchange Student) Bratislava, Slovakia |  British and American Studies Feb 2023 – Aug 2023
+- Comenius University Bratislava (Exchange Student) Bratislava, Slovakia | British and American Studies 
 
 ## Projects 
  **1) Beyond Numbers: A swift EDA of Saudi Arabia's Population dataset**
@@ -29,14 +29,14 @@ comprehensive dashboard to reveal crucial trends.
 ## Certification
 **ONLINE COURSES**
 
- - Research in Cognitive Studies and Brain Seminar | NUML Nov 2023
-- Power BI Workshop | atomcamp Nov 2023
-- Data Visualization with python | IBM Oct 2022
-- Programming for Everybody (Getting Started with Python) | Coursera Sep 2022
-- Introduction to Data Science in Python | datacamp Aug 2022
-- Intermediate Python | datacamp Sep 2022
-- Python Data Structures | Coursera Aug 2022
-- R Programming | alnafi May 2021
+ - Research in Cognitive Studies and Brain Seminar | NUML 
+- Power BI Workshop                                | atomcamp 
+- Data Visualization with python                   | IBM 
+- Programming for Everybody                        | Coursera 
+- Introduction to Data Science in Python           | datacamp 
+- Intermediate Python                              | datacamp 
+- Python Data Structures                           | Coursera 
+- R Programming                                    | alnafi 
 
 ## Services offered:
 
