@@ -14,7 +14,8 @@
 fully funded scholarship. In the past six months, I learned a lot regarding data analysis using Excel, 
 SQL, python and enhanced my analytical capabilities and communication skills. The following I 
 learned during the BootCamp:
-! [Data Analytics Certificate](assets/Data Analytics Certificate.png)
+
+![Data Analytics Certificate](assets/Data Analytics Certificate.png)
 
 
 ## Projects 
